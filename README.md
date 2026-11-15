@@ -9,7 +9,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud/pulse)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud?style=social)](https://github.com/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud?style=social)](https://github.com/ishandutta2007/Awesome-Multi-SaaS-Data-Protection-Cloud/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **🚀 A comprehensive, curated directory of top Multi-SaaS Data Protection Cloud platforms and self-hosted open-source Backup-as-a-Service (BaaS) engines. 🔐**
@@ -116,9 +116,9 @@ The industry exhibits a **bifurcated market structure**: it is **moderately conc
 
 ## 💻 Open-Source BaaS & Data Protection Solutions 🧰
 
-*Self-hosted open-source backup platforms, CLI engines, and tenant export frameworks, sorted in descending order by GitHub Stars.*
+*Self-hosted open-source backup platforms, CLI engines, and tenant export frameworks, sorted in descending order by GitHub_Stars.*
 
-| Project | GitHub Stars (Social Badge) | Primary Language / Stack | Core SaaS / Workload Target | License | Primary Architectural Use Case |
+| Project | GitHub_Stars (Social Badge) | Primary Language / Stack | Core SaaS / Workload Target | License | Primary Architectural Use Case |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[rclone](https://github.com/rclone/rclone)** | [![rclone Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | Google Drive, OneDrive, S3, 70+ Cloud Storage APIs | MIT | Multi-cloud data synchronization, file-level SaaS drive sync, automated offsite mirroring |
 | **[restic](https://github.com/restic/restic)** | [![restic Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go | S3, Azure Blob, GCS, B2, Local, SFTP | BSD-2-Clause | Cryptographically secure deduplicated snapshots of local SaaS exports and database dumps |
